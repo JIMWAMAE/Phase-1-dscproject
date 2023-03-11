@@ -3,10 +3,10 @@ Introduction
 As a data scientist I have been given a task by Microsoft Movie studios to analize given datasets so as to generate insights on what type of films to create. We are going to do an exploratory data analysis on the data provided from the movies box office.
 
 ### Objectives
-Effect of runtime minutes on movie average rating.
-What are the top perfoming movie genres according to genres average ratings?
-Effect of directors and writters selection towards movie success.
-What is the correlation between budget and revenue generated for a given movie?
+1. Effect of runtime minutes on movie average rating.
+2. What are the top perfoming movie genres according to genres average ratings?
+3. Effect of directors and writters selection towards movie success.
+4. What is the correlation between budget and revenue generated for a given movie?
 ### Business Understanding
 Microsoft is a start up business in the movie industry .They sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. We will conduct an exploratory data analysis so as to explore what types of films are currently doing the best at the box office. We will then translate our findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
